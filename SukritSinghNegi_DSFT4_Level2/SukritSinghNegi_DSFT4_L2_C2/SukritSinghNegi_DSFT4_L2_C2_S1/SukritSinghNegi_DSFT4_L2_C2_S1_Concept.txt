@@ -1,0 +1,7 @@
+{writer:"Quentin Tarantino"}
+{actors:"Brad Pitt"}
+{franchise:"The Hobbit"}
+{year:{$gt:1899,$lt:2000}}
+{$or: [{year:{$gt:2010}} , {year:{$lt:2000}}]}
+{synopsis: { $regex :"Bilbo", $options:'m'}}
+{title: "Pee Wee Herman's Big Adventure"}

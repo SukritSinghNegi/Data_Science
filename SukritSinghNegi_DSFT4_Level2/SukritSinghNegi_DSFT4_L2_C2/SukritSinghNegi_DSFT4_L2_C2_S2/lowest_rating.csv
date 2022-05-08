@@ -1,0 +1,8 @@
+RestaurantName,_id,address line 2,outcode,postcode,rating,type_of_food
+Al Dixi Fried Chicken & Grill House,55f14312c7447c3da7051ceb,Birmingham,B21,9SE,1,Chicken
+Al Dixi Fried Chicken & Grill House,55f14312c7447c3da7051cec,Birmingham,B21,9SE,1,Chicken
+Alaowerri Restaurant,55f14312c7447c3da7051d35,London,SE14,5DJ,1,African
+Beiteddine,55f14313c7447c3da70522ef,London,SW1X,9JW,1.5,Lebanese
+Beiteddine,55f14313c7447c3da70522f0,London,SW1X,9JW,1.5,Lebanese
+"Benny's",55f14313c7447c3da70523a1,Leicester,LE1,6FB,1,Chicken
+"Benny's",55f14313c7447c3da70523a2,Leicester,LE1,6FB,1,Chicken
